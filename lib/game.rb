@@ -63,4 +63,3 @@ class Game
   end
 
 end
-
